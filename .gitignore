@@ -1,0 +1,7 @@
+*
+!*/
+!*.jpg
+!*.pdf
+!*.mp4
+!.gitignore
+!README.md
